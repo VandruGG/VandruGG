@@ -1,9 +1,5 @@
 ### Buenas, sean bienvenidos 👋
 
-##### Mi nombre es Andres. 
-##### Soy Programador Web, Analista Programador y me encuentro en la etapa final de la carrera de Analista de Sistemas.
-
-
 <!--
 **VandruGG/VandruGG** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
